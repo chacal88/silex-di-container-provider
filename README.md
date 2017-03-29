@@ -12,7 +12,7 @@ A simple dependency injection builder to Silex based on YAML file config.
 # Install
 
 ```
-composer require mrprompt/silex-di-builder
+composer require chacal/silex-di-builder
 ```
 
 ## Usage
